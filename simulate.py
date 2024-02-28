@@ -44,7 +44,9 @@ def fit_model(X: np.ndarray, y: np.ndarray) -> Tuple[LinearRegression, np.ndarra
             n_features_to_select="auto", 
             direction="forward").fit(X, y)
         sfs_forward.get_support()
-    return model, y_pred
+        return sfs_forward, y_pred
+    else:
+        return model, y_pred
 
 def calculate_r2(y: np.ndarray, y_pred: np.ndarray) -> float:
     """
@@ -79,7 +81,7 @@ def run_simulation(n_observations: int, max_predictors: int, n_iterations: int) 
         for _ in range(n_iterations):
             try:
                 x, y = generate_data(n_observations, n_predictors)
-                _, y_pred = fit_model(x, y)
+                sfs_forward, y_pred = fit_model(x, y)
                 r2 = calculate_r2(y, y_pred)
                 r2_scores.append(r2)
             except Exception as e:
