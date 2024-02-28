@@ -1,0 +1,29 @@
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
+contourpy @ file:///D:/bld/contourpy_1699041552441/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+et-xmlfile @ file:///home/conda/feedstock_root/build_artifacts/et_xmlfile_1674664118162/work
+fonttools @ file:///D:/bld/fonttools_1708049214848/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1691577114857/work
+kiwisolver @ file:///D:/bld/kiwisolver_1695380078296/work
+matplotlib @ file:///D:/bld/matplotlib-suite_1708026620064/work
+munkres==1.1.4
+numpy @ file:///D:/bld/numpy_1707225528937/work/dist/numpy-1.26.4-cp311-cp311-win_amd64.whl#sha256=537f0573fefb1e93b3633e8a79102e6b6d2911e09e0a90008993efef4242448e
+openpyxl @ file:///D:/bld/openpyxl_1695464814305/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandas @ file:///D:/bld/pandas_1708708763933/work
+pillow @ file:///D:/bld/pillow_1704252252810/work
+ply==3.11
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+PyQt5==5.15.9
+PyQt5-sip @ file:///D:/bld/pyqt-split_1695417970429/work/pyqt_sip
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+scikit-learn @ file:///D:/bld/scikit-learn_1708073961814/work
+scipy @ file:///C:/bld/scipy-split_1706041618395/work/dist/scipy-1.12.0-cp311-cp311-win_amd64.whl#sha256=c70c65a82df57d892e53532fdbe573417454df6dbf355fc0ba4cec59391d26df
+sip @ file:///D:/bld/sip_1697300573532/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1707930541534/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+tornado @ file:///D:/bld/tornado_1708363244199/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
