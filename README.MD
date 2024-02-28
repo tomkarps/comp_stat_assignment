@@ -17,7 +17,7 @@ To run the project on your local machine, follow these steps:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://your-github-repo-link.git
+   git clone https://github.com/tomkarps/comp_stat_assignment
    cd your-repository-name
 
 2. **Create a virtual environment**
